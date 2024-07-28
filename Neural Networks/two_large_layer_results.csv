@@ -1,0 +1,26 @@
+,Testing Score,Final Loss,Final Validation,Optimizer,Learning Rate,Training Batches,Layers,Neurons per Layer,Epochs,Dropout,Initialization,Batch Normalization,Plot File
+0,89.31640386581421,5.860005983344789,89.47860598564148,Adam ,0.001,106,2,"[400, 400]",40,0.0,,False,plots/loss_val_0_None_twolayers.png
+1,89.39453363418579,23.0966422636554,90.14167189598083,Adam ,0.001,106,2,"[400, 400]",40,0.2,,False,plots/loss_val_1_None_twolayers.png
+2,89.2578125,23.221811989568312,90.1261031627655,Adam ,0.001,106,2,"[400, 400]",40,0.5,,False,plots/loss_val_2_None_twolayers.png
+3,89.21874761581421,23.215783710749644,89.72132802009583,Adam ,0.001,106,2,"[400, 400]",40,0.8,,False,plots/loss_val_3_None_twolayers.png
+4,89.10156488418579,5.584513701779662,89.96900916099548,Adam ,0.001,106,2,"[400, 400]",40,False,,False,plots/loss_val_4_None_twolayers.png
+5,89.3847644329071,22.69648194031896,89.91664052009583,Adam ,0.001,106,2,"[400, 400]",40,0.2,,False,plots/loss_val_5_None_twolayers.png
+6,89.21874761581421,23.331126500413102,90.40208458900452,Adam ,0.001,106,2,"[400, 400]",40,0.5,,False,plots/loss_val_6_None_twolayers.png
+7,89.697265625,22.928140874741214,89.97183442115784,Adam ,0.001,106,2,"[400, 400]",40,0.8,,False,plots/loss_val_7_None_twolayers.png
+8,88.3496105670929,1.4232066947580229,88.20623755455017,Adam ,0.001,106,2,"[400, 400]",40,False,Random Normal,False,plots/loss_val_8_Random Normal_twolayers.png
+9,89.55078125,5.557586516271222,89.82676863670349,Adam ,0.001,106,2,"[400, 400]",40,False,Xavier Normal,False,plots/loss_val_9_Xavier Normal_twolayers.png
+10,89.63867425918579,4.979750751254131,89.94565010070801,Adam ,0.001,106,2,"[400, 400]",40,False,Kaiming Uniform,False,plots/loss_val_10_Kaiming Uniform_twolayers.png
+11,89.2871081829071,2.534370132686816,89.36750292778015,Adam ,0.001,106,2,"[400, 400]",40,False,,True,plots/loss_val_11_None_twolayers.png
+12,76.46484375,67.61127530403857,78.09032797813416,SGD ,0.001,106,2,"[400, 400]",40,False,,False,plots/loss_val_12_SGD _twolayers.png
+13,89.453125,7.001065902130783,89.62154388427734,RMSprop ,0.001,106,2,"[400, 400]",40,False,,False,plots/loss_val_13_RMSprop _twolayers.png
+14,89.6484375,5.488208220955336,89.60809707641602,Adam ,0.001,106,2,"[400, 400]",40,False,,False,plots/loss_val_14_Adam _twolayers.png
+15,87.24609613418579,19.21661458909512,88.14113140106201,Adam ,0.01,106,2,"[400, 400]",40,False,,False,plots/loss_val_15_Adam _twolayers.png
+16,20.029297471046448,208.694201145532,19.35858279466629,Adam ,0.1,106,2,"[400, 400]",40,False,,False,plots/loss_val_16_Adam _twolayers.png
+17,87.65624761581421,17.41764705698445,88.31804394721985,SGD ,0.1,106,2,"[400, 400]",40,False,,False,plots/loss_val_17_SGD _twolayers.png
+18,85.45898199081421,37.2992790251408,86.42224669456482,SGD ,0.01,106,2,"[400, 400]",40,False,,False,plots/loss_val_18_SGD _twolayers.png
+19,84.5703125,30.753699900969018,85.86885929107666,RMSprop ,0.01,106,2,"[400, 400]",40,False,,False,plots/loss_val_19_RMSprop _twolayers.png
+20,16.298827528953552,342.4498603029071,16.486923396587372,RMSprop ,0.1,106,2,"[400, 400]",40,False,,False,plots/loss_val_20_RMSprop _twolayers.png
+21,88.2519543170929,32.82145497933874,89.04551863670349,Adam ,0.001,106,2,"[400, 400]",40,0.5,Random Normal,False,plots/loss_val_21_Adam _twolayers.png
+22,89.54101800918579,22.16371123520833,89.86356258392334,Adam ,0.001,106,2,"[400, 400]",40,0.5,Xavier Normal,False,plots/loss_val_22_Adam _twolayers.png
+23,89.73633050918579,22.308067372947367,90.41058421134947,Adam ,0.001,106,2,"[400, 400]",40,0.5,Kaiming Uniform,False,plots/loss_val_23_Adam _twolayers.png
+24,87.73437738418579,33.12805833400421,89.34839367866516,Adam ,0.001,106,2,"[400, 400]",40,0.5,Kaiming Uniform,True,plots/loss_val_24_Adam _twolayers.png
